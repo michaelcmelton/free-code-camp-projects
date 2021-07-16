@@ -5,10 +5,10 @@ These projects are solved using basic JavaScript and can be ran locally using th
 The following projects are in this directory:
 
 - [Palindrome Checker](./palindrome-checker.js)
-- Roman Numeral Converter
-- Caesar's Cipher
-- Telephone Number Validator
-- Cash Register
+- [Roman Numeral Converter](./roman-numeral-converter.js)
+- [Caesar's Cipher](./caesar-cipher.js)
+- [Telephone Number Validator](./telephone-number-validator.js)
+- [Cash Register](./cash-register.js)
 
 Each projects problem statement is enclosed in a comment in the top of the file.
 
