@@ -1,0 +1,11 @@
+.editorContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1vw;
+  width: 48%;
+  height: 90%;
+  & #editor {
+    min-height: 95%;
+  }
+}

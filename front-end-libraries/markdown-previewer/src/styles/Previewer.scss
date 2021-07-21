@@ -1,0 +1,11 @@
+#preview {
+  width: 48%;
+  border: 1px solid #000;
+  max-height: 98%;
+  overflow-y: scroll;
+  margin: 1vw;
+
+  & img {
+    max-width: 100%;
+  }
+}
